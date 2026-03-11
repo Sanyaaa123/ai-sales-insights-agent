@@ -42,4 +42,5 @@ data/ → Sample dataset
 
 ## Author
 
-Built by [Your Name]
+Built by Sanya Bansal
+
